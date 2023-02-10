@@ -340,8 +340,6 @@
     width: 48px;
     height: 48px;
     background-color: white;
-    background: url(/assets/whatsapp.svg);
-    background-size: cover;
 }
 
 .fb {
@@ -351,8 +349,6 @@
     width: 48px;
     height: 48px;
     background-color: white;
-    background: url(/assets/fb.svg);
-    background-size: cover;
 }
 
 .twitter {
@@ -362,8 +358,6 @@
     width: 48px;
     height: 48px;
     background-color: white;
-    background: url(/assets/twitter.svg);
-    background-size: cover;
 }
 
 /* chat bot  */
